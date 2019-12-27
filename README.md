@@ -4,7 +4,7 @@
 
 # 分享各种网络小技巧 分享Windows激活密钥
 
-以下分享的都是MAK密钥，同一密钥剩余激活台数用一次少一次，耗尽为止。激活成功后，将永久占用该密钥的一个激活名额，绑定硬件（主板）生成数字许可证，即数字权利激活。系统登录微软账号后，数字许可证会同步到微软服务器数据库。重装系统后联网自动激活。
+以下分享的都是MAK密钥（Volume MAK Key），同一密钥剩余激活台数用一次少一次，耗尽为止。激活成功后，将永久占用该密钥的一个激活名额，绑定硬件（主板）生成数字许可证，即数字权利激活。系统登录微软账号后，数字许可证会同步到微软服务器数据库。重装系统后联网自动激活。
 
 一旦成功激活，请一定保存好该密钥。只要不更换主板，该密钥对你的电脑永久有效。
 
@@ -13,30 +13,39 @@
 ### Windows 10 Professional MAK
 
 THR73-BTNRT-8C82T-QTDDR-PPQGY
+
 剩余激活台数：951
 
 22HC6-CFNCB-XP972-GF3KB-YWRDB
+
 剩余激活台数：163
 
 3H33N-VGBHC-T8CWX-QD8VP-KW3GY
+
 剩余激活台数：179
 
 96CCV-NHKKV-2T4DB-MW6JW-YP2KM
+
 剩余激活台数：50
 
 RHWJN-CDM6X-KG9MV-32PVX-TF4DB
+
 剩余激活台数：30
 
 Q3K64-N4PJ3-MPX6R-WCGDX-MG9TY
+
 剩余激活台数：0
 
 6XQWN-C2BYK-2HW7T-DFQ3F-MWRDB
+
 剩余激活台数：22
 
 PRT7H-N3TPR-GM38R-4B8GT-3V66Y
+
 剩余激活台数：12
 
 CPDDX-KN7RV-BKTJC-X6PRX-KQBQB
+
 剩余激活台数：30
 
 ### 检测时间：2019.12.27
@@ -44,30 +53,39 @@ CPDDX-KN7RV-BKTJC-X6PRX-KQBQB
 ### Win 10 RTM Enterprise Volume:MAK
 
 3BJNK-VQY7V-2H7DB-G4Y7J-YP2JR
+
 剩余激活台数：19
 
 B2N6B-Q8JRM-M2V4G-YYKFW-33WWR
+
 剩余激活台数：19
 
 JCTQN-C6KDJ-QP4F4-JY8RB-YWRCF
+
 剩余激活台数：20
 
 K4CDM-BXNWW-PRPKW-QC74M-6VJWR
+
 剩余激活台数：20
 
 KNXF2-236PX-JMFXJ-Y82J9-7XMPF
+
 剩余激活台数：20
 
 M3NQV-Y8CB8-QTBVK-X7GW9-TF4CF
+
 剩余激活台数：20
 
 MV3NF-M6QC9-DWCGJ-8HWXW-TQ72F
+
 剩余激活台数：20
 
 NHWQ3-DJ2R3-RW9W7-8JBH9-FRG44
+
 剩余激活台数：20
 
 NQX9G-DKWMP-XT963-PBX8M-XBT44
+
 剩余激活台数：20
 
 ### 检测时间：2019.12.27
@@ -75,84 +93,114 @@ NQX9G-DKWMP-XT963-PBX8M-XBT44
 ### Windows 7 All Volume Editions Volume:MAK
 
 RJ4PG-K9RW2-B648D-WYGFC-VR479 
+
 剩余激活台数：2766
 
 2QR9R-KRRFF-CTFCP-4B8TF-4GYKH 
+
 剩余激活台数：181
 
 2THHV-6YH6Q-QXD3Q-FH9WP-8R664 
+
 剩余激活台数：189
 
 4FDTC-VTHTV-HQTB9-KWVD9-FVXK8 
+
 剩余激活台数：30
 
 4G8KK-7CF99-6V63R-DB2QM-QX22R 
+
 剩余激活台数：36
 
 6K3M9-TPGKQ-RXPFK-VBR33-PW66V 
+
 剩余激活台数：3425
 
 7TTJP-6DQWM-4KH6M-GGFB4-D7VBY 
+
 剩余激活台数：40
 
 BD4XW-K8KJF-JDR2C-TRYP4-2CDJH 
+
 剩余激活台数：737
 
 BJMPM-Y6FJJ-C8T3W-936BV-6BYBV 
+
 剩余激活台数：29
 
 BQCHH-WVMTV-HWQRW-MJQHK-V2CDK 
+
 剩余激活台数：40
 
 HQDTF-6R226-7JJYJ-HBXF7-9THPM 
+
 剩余激活台数：451
 
 HRJCM-HRHMP-9TF3D-3D7Y4-7JJ3Y 
+
 剩余激活台数：42
 
 HXDRF-DVC3Y-T3466-YTQKW-HPCWJ 
+
 剩余激活台数：22
 
 HXJMJ-GXC27-6T7M9-T4VW4-7KP43 
+
 剩余激活台数：1164
 
 JX4KP-CJH77-JGB66-2WF3R-HPBTH 
+
 剩余激活台数：37
 
 KHDTH-XF4RD-Y98WM-JC727-3YHPW 
+
 剩余激活台数：39
 
 KJMR6-V738Q-B7KGX-HM26C-XKPDH 
+
 剩余激活台数：29
 
 MBDB8-3KDYW-K42DY-K2GFK-Q8XKB 
+
 剩余激活台数：39
 
 MRWXV-M7CJ6-Q9WG3-BDFMF-G4GVT 
+
 剩余激活台数：20
 
 Q2GD9-8BD86-KPV6W-JXR7X-3M4CV 
+
 剩余激活台数：400
 
 QYV8B-CXCY9-43XF8-FJ8FQ-KV87V 
+
 剩余激活台数：181
 
 TCBYC-DQJ7D-GYKXQ-8YCQ3-RHD2C 
+
 剩余激活台数：36
 
 W36WQ-BGFXK-WXCRW-4D3CF-WCYRF 
+
 剩余激活台数：577
 
 WXT34-D8R7Q-VG88K-37G8H-K3CDH 
+
 剩余激活台数：50
 
 XH9RV-R9H88-CTMCV-GHQYF-3W3TM 
+
 剩余激活台数：37
 
 YK7CP-M2FTY-VW7XK-4VTG6-PV6HM 
+
 剩余激活台数：297
 
 YQJJW-Q8BF8-H48T2-69KHM-68R9R 
+
 剩余激活台数：71
 
-# 微信搜索 关注公众号 “微零微” 长期更新 分享Windows激活密钥 
+# 微信搜索 关注公众号 “微零微” 长期更新
+
+# 分享各种网络小技巧 分享Windows激活密钥
+
